@@ -8,9 +8,7 @@ okf_version: "0.1"
 
 ## 目錄
 
-* [brand/](brand/) - 品牌定位、語調規範、CTA 模板
-* [editorial/](editorial/) - 編輯規範（標點、寫作、架構、品質標準）
-* [articles/](articles/) - 文章庫與文章類型規格
-* [categories/](categories/) - 主題分類定義
-* [seo/](seo/) - SEO 策略、關鍵字 cluster、E-E-A-T、演算法信號
-* [references/](references/) - 權威來源、設計原則
+- [about/](about/) - 關於早安毛健康：網站介紹與編輯標準
+- [topics/](topics/) - 主題分類：貓咪、狗狗、小型寵物、爬蟲水族等 14 個知識領域
+- [articles/](articles/) - 文章庫：所有已發布的寵物健康文章索引
+- [references/](references/) - 參考來源：獸醫學與營養學權威資源
